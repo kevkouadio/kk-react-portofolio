@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "CMS of a restaurant website",
+        "description": "A Content Management Systems app that allows a Restaurant owner to post new dishes to her/his restaurant website so that customers can view and order online.",
+        "picture": "https://github.com/kevkouadio/Project2/raw/master/public/images/screenshots/menu.png",
+        "link": "https://restaurant-cms-project2.herokuapp.com/",
+        "repo": "https://github.com/kevkouadio/Project2"
+    },
+    {
+        "id": 2,
+        "name": "Employee Directory",
+        "description": "It is an employee directory application developed with React using the ramdomuser API. When the user loads the page, a table of employees renders with their pictures, names, employee id, email and phone number with the possibility to filer by typing in the input field and sorting by name.",
+        "picture": "https://github.com/kevkouadio/employee-directory/raw/main/public/Screenshot1.png",
+        "link": "https://kevkouadio.github.io/employee-directory/",
+        "repo": "https://github.com/kevkouadio/employee-directory"
+    },
+    {
+        "id": 3,
+        "name": "Workout Tracker",
+        "description": "Workout app that allows the user to track the name, type, weight, sets, reps, and duration of exercise.",
+        "picture": "https://github.com/kevkouadio/kk-workout-tracker/raw/main/public/Screenshots/Screenshot2.png",
+        "link": "https://kev-workout-tracker.herokuapp.com/",
+        "repo": "https://github.com/kevkouadio/kk-workout-tracker"
+    },
+    {
+        "id": 4,
+        "name": "Password Generator",
+        "description": "It is an application that generates a random password based on user-selected criteria.",
+        "picture": "https://github.com/kevkouadio/hw3-password-generator/raw/master/Screeshots/Screenshot2.png",
+        "link": "https://kevkouadio.github.io/hw3-password-generator/",
+        "repo": "https://github.com/kevkouadio/hw3-password-generator"
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "description": "It is weather dashboard app that runs in the browser and feature dynamically updated HTML and CSS. The app uses OpenWeather API to retrieve weather data for cities and JQuery to make dynamic changes to the HMTL document.",
+        "picture": "https://github.com/kevkouadio/KK-Weather-Dashboard/raw/master/Assets/Screenshot.png",
+        "link": "https://kevkouadio.github.io/KK-Weather-Dashboard/",
+        "repo": "https://github.com/kevkouadio/KK-Weather-Dashboard"
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "description": "Online application that can be used to write, save, and delete notes.",
+        "picture": "https://github.com/kevkouadio/Note-Taker/blob/master/public/Note-Taker-App.gif?raw=true",
+        "link": "https://kk-note-taker.herokuapp.com/",
+        "repo": "https://github.com/kevkouadio/Note-Taker"
+    }
+
+]
