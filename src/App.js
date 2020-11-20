@@ -7,6 +7,8 @@ import Container from "./components/Container"
 import "./App.css";
 import Home from "./pages/Home";
 import Portofolio from "./pages/Portofolio";
+import Contact from "./pages/Contact";
+import Resume from "./pages/Resume";
 
 function App() {
   return (
@@ -17,10 +19,12 @@ function App() {
          <Container>
           <Route exact path="/" component={Home} />
           <Route exact path="/portofolio" component={Portofolio} />
+          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/resume" component={Resume} />
          </Container>    
         </Wrapper>
-        <Footer />
       </div>
+      <Footer />
     </Router>
   );
 }

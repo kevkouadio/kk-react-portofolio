@@ -5,7 +5,7 @@ import CardItems from "../../CardItems.json";
 
 function Portofolio() {
 
-  const [ Items, setItems ] = useState(CardItems);
+  const [ Items ] = useState(CardItems);
 
   return (
     Items.map(item => (
@@ -16,7 +16,7 @@ function Portofolio() {
           link={item.link}
           repo={item.repo} 
     />
-    )
+      )
     )
   )
 };

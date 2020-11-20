@@ -1,13 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./style.css";
 
 function Home() {
   return (
-    <div className="header__text-box row">
+    <div id="homeContainer" >
       <div className="header__text">
-        <div id="imgDiv"> 
-          <img id="intro-img"src="./images/IMG-1808.jpg"/>
-        </div>
+       
+          <img class="displayed" src="https://kevkouadio.github.io/kk-portofolio/images/IMG-1808.jpg" width="300px" alt="Kouassi Kevin"/>
+       
         <div id="textDiv">
         <h1 className="heading-primary">
           <span>Kouassi Kevin Kouadio</span>
@@ -17,6 +18,7 @@ function Home() {
         </div>
       </div>
     </div>
+   
   );
 }
 
