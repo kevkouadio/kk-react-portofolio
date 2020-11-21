@@ -5,7 +5,7 @@ import "./style.css";
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Card(props) {
   return (
-    <div className="card" style={{width: 18+"rem" }}>
+    <div className="card" id="pCard" style={{width: 18+"rem" }}>
       <h5 className="card-title">{props.name}</h5>
         <img src={props.picture} className="card-img-top" alt={props.name}/>
         <div className="card-body">

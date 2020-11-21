@@ -1,17 +1,13 @@
 import React from "react";
+//import FooterItems from "../../FooterItems.json";
 import "./style.css";
 
-function Footer() {
+function Footer(props) {
+  
   return (
-    <footer role="contentinfo" className="footer">
-      
-        <ul className="footer__social-links">
-          <li className="footer__social-link-item">
-            <a href={"https://twitter.com/KevinKouadio30"} title="Link to Twitter Profile"><img src={"./images/twitter.svg"} class="footer__social-image" alt="Twitter" /></a>
-          </li>
-        </ul>
-      
-    </footer>
+        <div class="card">
+          <a href={props.link}><img src={props.picture} className="footer__social-image" alt={props.name} /></a>
+        </div>
   );
 }
 

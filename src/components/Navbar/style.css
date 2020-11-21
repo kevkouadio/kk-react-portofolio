@@ -2,5 +2,7 @@
   display: flex;
   justify-content: flex-end;
   padding: var(--gutter-normal) 0;
-  
+  font-size: 20px;
 }
+
+

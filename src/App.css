@@ -3,6 +3,24 @@
 }
 
 body {
-  background-image: url('https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/img/demo-1-bg.jpg');
+  background-image: url('https://thumbs.gfycat.com/ThirstyBabyishHusky-size_restricted.gif');
   color: white;
+}
+
+.card {
+  color: black;
+}
+
+footer {
+  background-color: none;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  
+}
+
+#fRow {
+  margin: auto;
+  width: 22em;
+
 }
