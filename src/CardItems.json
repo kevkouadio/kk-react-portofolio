@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "CMS of a restaurant website",
-        "description": "A Content Management Systems app that allows a Restaurant owner to post new dishes to her/his restaurant website so that customers can view and order online.",
+        "description": "A Content Management Systems app for a Restaurant where owner can post new dishes.",
         "picture": "https://github.com/kevkouadio/Project2/raw/master/public/images/screenshots/menu.png",
         "link": "https://restaurant-cms-project2.herokuapp.com/",
         "repo": "https://github.com/kevkouadio/Project2"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Employee Directory",
-        "description": "It is an employee directory application developed with React using the ramdomuser API. When the user loads the page, a table of employees renders with their pictures, names, employee id, email and phone number with the possibility to filer by typing in the input field and sorting by name.",
+        "description": "It is an employee directory application developed with React using the ramdomuser API.",
         "picture": "https://github.com/kevkouadio/employee-directory/raw/main/public/Screenshot1.png",
         "link": "https://kevkouadio.github.io/employee-directory/",
         "repo": "https://github.com/kevkouadio/employee-directory"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Weather Dashboard",
-        "description": "It is weather dashboard app that runs in the browser and feature dynamically updated HTML and CSS. The app uses OpenWeather API to retrieve weather data for cities and JQuery to make dynamic changes to the HMTL document.",
+        "description": "It is a simple weather dashboard app that runs in the browser and feature dynamically updated HTML and CSS.",
         "picture": "https://github.com/kevkouadio/KK-Weather-Dashboard/raw/master/Assets/Screenshot.png",
         "link": "https://kevkouadio.github.io/KK-Weather-Dashboard/",
         "repo": "https://github.com/kevkouadio/KK-Weather-Dashboard"

@@ -1,17 +1,29 @@
 #homeContainer {
     align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    width: 28em;
+}
+
+#textDiv {
     margin: auto;
-    padding: 10%;
+    text-align: center;
 }
 
 .header_text {
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    align-items: center;
+    
 }
-
 
 #intro-img {
     border-radius: 50%;
     padding-bottom: 20px;
-    margin-left: auto;
+    width: 300px;
     margin-right: auto;
+    margin-left: 50px;
 }
+

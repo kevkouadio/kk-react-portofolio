@@ -25,10 +25,10 @@ function App() {
         </Wrapper>
       </div>
       <footer>
-        <div id="fRow" className="row">
-          <FooterList />
-          <p>Kouassi Kevin Kouadio 2020 <i class="fa fa-copyright" aria-hidden="true"></i></p>
-        </div> 
+      <div id="fRow" className="row">
+        <FooterList />
+        <p>Kouassi Kevin Kouadio 2020 <i class="fa fa-copyright" aria-hidden="true"></i></p>
+      </div> 
       </footer>
     </Router>
   );

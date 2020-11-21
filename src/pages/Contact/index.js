@@ -5,7 +5,7 @@ import "./style.css"
 function Contact() {
     return (
         
-<div className="card">
+<div className="card" id="contact-card">
     <div className="card-header">
         <h3>My Contacts</h3>
     </div>
@@ -19,7 +19,7 @@ function Contact() {
             </ul>
         </div>  
         <form action="mailto:kevkouadio@gmail.com" method="get" enctype="text/plain" >
-            <input className="btn btn-info" type="submit" name="submit" value="Click here to send me an Email"/>
+            <input className="btn btn-primary" type="submit" name="submit" value="Click here to send me an Email"/>
         </form>
     </div>
 </div>

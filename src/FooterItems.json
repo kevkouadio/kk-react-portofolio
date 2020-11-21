@@ -3,25 +3,25 @@
         "id": 1,
         "name": "twitter",
         "picture": "https://lh3.googleusercontent.com/proxy/BIFPV-YfG_TUpF--LXgEEQucPhLhNtstdMoLZMnIDx5w5-kfKCQ2U_kgzcrehnVC6nyYOrS6TxbgiL3c8906iUW30vrV56bZ8NgVBxKQE2bJZ3WlSAZDAy8K03O2o5ezA3T2nDt_TKFw2VD1fmXtXpCraaS8FFLam042s34mYw",
-        "link": "https://restaurant-cms-project2.herokuapp.com/"
+        "link": "https://twitter.com/KevinKouadio30"
     },
     {
         "id": 2,
         "name": "github",
         "picture": "https://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png",
-        "link": "https://restaurant-cms-project2.herokuapp.com/"
+        "link": "https://github.com/kevkouadio"
     },
     {
         "id": 3,
         "name": "linkedin",
         "picture": "https://assets.stickpng.com/images/58e91afdeb97430e81906504.png",
-        "link": "https://restaurant-cms-project2.herokuapp.com/"
+        "link": "https://www.linkedin.com/in/kouassi-kevin-kouadio-b731a071/"
     },
     {
         "id": 4,
         "name": "facebook",
         "picture": "https://assets.stickpng.com/thumbs/584ac2d03ac3a570f94a666d.png",
-        "link": "https://restaurant-cms-project2.herokuapp.com/"
+        "link": "https://www.facebook.com/kevinkouadioboban/"
     }
 
 ]

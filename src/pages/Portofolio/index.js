@@ -1,23 +1,16 @@
-import React, {useState} from "react";
-import Card from "../../components/Card";
-import CardItems from "../../CardItems.json";
+import React from "react";
+// import Card from "../../components/Card";
+// import CardItems from "../../CardItems.json";
+
+import CardList from "../../components/CardList";
 
 
 function Portofolio() {
 
-  const [ Items ] = useState(CardItems);
-
   return (
-    Items.map(item => (
-    <Card key={item.id}
-          description={item.description}
-          picture={item.picture}
-          name={item.name}
-          link={item.link}
-          repo={item.repo} 
-    />
-      )
-    )
+    <div className="row">
+      <CardList />
+    </div>
   )
 };
 

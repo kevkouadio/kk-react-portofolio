@@ -6,7 +6,7 @@ function Footer(props) {
   
   return (
         <div class="card">
-          <a href={props.link}><img src={props.picture} className="footer__social-image" alt={props.name} /></a>
+          <a href={props.link} target="blank"><img src={props.picture} className="footer__social-image" alt={props.name} /></a>
         </div>
   );
 }

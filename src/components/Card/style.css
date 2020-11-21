@@ -2,6 +2,7 @@
     color: black;
     float: left;
     margin: 30px;
+    display: block;
 }
 
 h5 {
@@ -9,3 +10,8 @@ h5 {
     background-color: blue;
     color: white;
 }
+
+#pCard:hover {
+    transform: scale(1.5);
+    
+  }

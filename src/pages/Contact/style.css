@@ -1,0 +1,22 @@
+#contact-card {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    width: 28em;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+form {
+    margin-top: 5%;
+    
+}
+
+.btn {
+    width: 23em;
+}

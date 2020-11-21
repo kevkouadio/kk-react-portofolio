@@ -13,7 +13,7 @@ function Card(props) {
         </div>
         <div class="card-body">
             <a href={props.link} className="card-link" target="blank">Deployed Website</a>
-            <a href={props.repo} className="card-link" target="blank">Github App Repo</a>
+            <a href={props.repo} className="card-link" target="blank">Github Repo</a>
         </div>
     </div>
   );
