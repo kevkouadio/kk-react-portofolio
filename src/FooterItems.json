@@ -2,19 +2,19 @@
     {
         "id": 1,
         "name": "twitter",
-        "picture": "https://lh3.googleusercontent.com/proxy/BIFPV-YfG_TUpF--LXgEEQucPhLhNtstdMoLZMnIDx5w5-kfKCQ2U_kgzcrehnVC6nyYOrS6TxbgiL3c8906iUW30vrV56bZ8NgVBxKQE2bJZ3WlSAZDAy8K03O2o5ezA3T2nDt_TKFw2VD1fmXtXpCraaS8FFLam042s34mYw",
+        "picture": "https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png",
         "link": "https://twitter.com/KevinKouadio30"
     },
     {
         "id": 2,
         "name": "github",
-        "picture": "https://assets.stickpng.com/images/5847f98fcef1014c0b5e48c0.png",
+        "picture": "https://www.flaticon.com/svg/static/icons/svg/25/25231.svg",
         "link": "https://github.com/kevkouadio"
     },
     {
         "id": 3,
         "name": "linkedin",
-        "picture": "https://assets.stickpng.com/images/58e91afdeb97430e81906504.png",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png",
         "link": "https://www.linkedin.com/in/kouassi-kevin-kouadio-b731a071/"
     },
     {

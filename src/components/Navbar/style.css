@@ -3,6 +3,20 @@
   justify-content: flex-end;
   padding: var(--gutter-normal) 0;
   font-size: 20px;
+  width: 100%;
 }
 
+.nav-link {
+  color: white;
+}
 
+.navbar-toggler {
+  background-color: white;
+  
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+    width: 120%;
+  }
+} 

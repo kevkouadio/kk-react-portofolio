@@ -14,7 +14,7 @@ function Home() {
           <span>Kouassi Kevin Kouadio</span>
         </h1>
         <p>Full Stack Web Developer based in East Orange, New Jersey. I am currently looking for new opportunities.</p>
-        <Link to="/contact" className="btn btn-primary">Contact Me</Link>
+        <Link to="/resume" className="btn btn-primary">View my resume</Link>
         </div>
       </div>
     </div>

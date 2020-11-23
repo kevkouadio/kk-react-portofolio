@@ -14,13 +14,18 @@ body {
 footer {
   background-color: none;
   bottom: 0;
-  position: fixed;
+  position: relative;
   width: 100%;
-  
+  margin-left: 60px;
+
 }
 
 #fRow {
   margin: auto;
   width: 22em;
+ 
+}
 
+iframe {
+  margin: auto;
 }

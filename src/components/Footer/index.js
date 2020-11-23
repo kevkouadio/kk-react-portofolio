@@ -5,7 +5,7 @@ import "./style.css";
 function Footer(props) {
   
   return (
-        <div class="card">
+        <div className="card">
           <a href={props.link} target="blank"><img src={props.picture} className="footer__social-image" alt={props.name} /></a>
         </div>
   );

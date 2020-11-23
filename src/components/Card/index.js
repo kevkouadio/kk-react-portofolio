@@ -11,7 +11,7 @@ function Card(props) {
         <div className="card-body">
             <p className="card-text">{props.description}</p>
         </div>
-        <div class="card-body">
+        <div className="card-body">
             <a href={props.link} className="card-link" target="blank">Deployed Website</a>
             <a href={props.repo} className="card-link" target="blank">Github Repo</a>
         </div>
