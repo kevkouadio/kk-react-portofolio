@@ -5,6 +5,15 @@
 body {
   background-image: url('https://thumbs.gfycat.com/ThirstyBabyishHusky-size_restricted.gif');
   color: white;
+  height: 100%;
+  position: relative;
+}
+
+.wrapper {
+  min-height: 100vh; /* will cover the 100% of viewport */
+  display: block;
+  position: relative;
+  padding-bottom: 100px; /* height of your footer */
 }
 
 .card {
@@ -14,10 +23,9 @@ body {
 footer {
   background-color: none;
   bottom: 0;
-  position: relative;
+  position: absolute;
   width: 100%;
-  margin-left: 60px;
-
+  margin-left: 90px;
 }
 
 #fRow {
