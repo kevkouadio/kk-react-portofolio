@@ -18,7 +18,7 @@ function Contact() {
                 <li className="list-group-item"><i class="fa fa-envelope" aria-hidden="true"></i> Email: kevkouadio@gmail.com</li>
             </ul>
         </div>  
-        <form action="mailto:kevkouadio@gmail.com" method="get" enctype="text/plain" >
+        <form action="mailto:kevkouadio@gmail.com" method="get" enctype="text/plain" target="blank">
             <input className="btn btn-primary" type="submit" name="submit" value="Click here to send me an Email"/>
         </form>
     </div>

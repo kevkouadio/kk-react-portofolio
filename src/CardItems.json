@@ -46,6 +46,30 @@
         "picture": "https://github.com/kevkouadio/Note-Taker/blob/master/public/Note-Taker-App.gif?raw=true",
         "link": "https://kk-note-taker.herokuapp.com/",
         "repo": "https://github.com/kevkouadio/Note-Taker"
+    },
+    {
+        "id": 7,
+        "name": "Code Quiz",
+        "description": "Javascript fundamental code quiz with multiple-choice questions.",
+        "picture": "https://github.com/kevkouadio/KK-Code-Quiz/raw/master/Assets/Screen-Shot1.png",
+        "link": "https://kevkouadio.github.io/KK-Code-Quiz/index.html",
+        "repo": "https://github.com/kevkouadio/KK-Code-Quiz"
+    },
+    {
+        "id": 8,
+        "name": "Work Day Planner",
+        "description": "Simple calendar application that allows the user to save events for each hour of a working day.",
+        "picture": "https://github.com/kevkouadio/KK-Day-Planner/raw/master/Assets/05-third-party-apis-homework-demo.gif",
+        "link": "https://kevkouadio.github.io/KK-Day-Planner/",
+        "repo": "https://github.com/kevkouadio/KK-Day-Planner"
+    },
+    {
+        "id": 9,
+        "name": "Online-Offline budget tracker",
+        "description": "Progressive Web Application to track Budget. It can work without internet connection.",
+        "picture": "https://github.com/kevkouadio/kk-online-offline-budget-trackers/raw/main/public/icons/Screenshot.png",
+        "link": "https://kk-budget-tracker.herokuapp.com/",
+        "repo": "https://github.com/kevkouadio/kk-online-offline-budget-trackers"
     }
 
 ]

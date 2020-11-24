@@ -14,33 +14,28 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="nav nav-tabs">
         <li className="nav-item">
-          <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+          <Link to={process.env.PUBLIC_URL + "/"} className={process.env.PUBLIC_URL + location.pathname === "/" ? "nav-link active" : "nav-link"}>
             Home
           </Link>
       </li>
       <li className="nav-item">
         <Link
-          to="/portofolio"
-          className={location.pathname === "/portofolio" ? "nav-link active" : "nav-link"}
+          to={process.env.PUBLIC_URL + "/portofolio"}
+          className={process.env.PUBLIC_URL + location.pathname === "/portofolio" ? "nav-link active" : "nav-link"}
         >
           Portofolio
         </Link>
       </li>
       <li className="nav-item">
         <Link
-          to="/contact"
-          className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+          to={process.env.PUBLIC_URL + "/contact"}
+          className={process.env.PUBLIC_URL + location.pathname === "/contact" ? "nav-link active" : "nav-link"}
         >
           Contact
         </Link>
       </li>
       <li className="nav-item">
-        <Link
-          to="/resume"
-          className={location.pathname === "/resume" ? "nav-link active" : "nav-link"}
-        >
-          Resume
-        </Link>
+        <a className="nav-link" href="https://kevkouadio.github.io/kk-portofolio/Kouassi-Kevin-Kouadio_Resume.pdf" target="blank">Resume</a>
       </li>
     </ul>
     </div>

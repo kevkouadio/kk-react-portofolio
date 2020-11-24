@@ -7,7 +7,6 @@ import "./App.css";
 import Home from "./pages/Home";
 import Portofolio from "./pages/Portofolio";
 import Contact from "./pages/Contact";
-import Resume from "./pages/Resume";
 import FooterList from "./components/FooterList";
 
 function App() {
@@ -17,10 +16,9 @@ function App() {
         <Navbar />
         <Wrapper>
          <Container>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/portofolio" component={Portofolio} />
-          <Route exact path="/contact" component={Contact} />
-          <Route exact path="/resume" component={Resume} />
+         <Route exact path={process.env.PUBLIC_URL + "/"} component={Home} />
+          <Route exact path={process.env.PUBLIC_URL + "/portofolio"} component={Portofolio} />
+          <Route exact path={process.env.PUBLIC_URL + "/contact"} component={Contact} /> 
          </Container>    
         </Wrapper>
       </div>
