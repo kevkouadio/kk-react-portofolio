@@ -35,7 +35,7 @@ function Navbar() {
         </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="https://kevkouadio.github.io/kk-portofolio/Kouassi-Kevin-Kouadio_Resume.pdf" target="blank">Resume</a>
+        <a className="nav-link" href="https://kevkouadio.github.io/kk-portofolio/Kouassi-Kevin-Kouadio.pdf" target="blank">Resume</a>
       </li>
     </ul>
     </div>
