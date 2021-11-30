@@ -1,4 +1,5 @@
 import React from "react";
+import myResume from "../../components/Resume/Kouassi-Kevin-Kouadio.pdf";
 import "./style.css";
 
 function Home() {
@@ -11,7 +12,7 @@ function Home() {
           <span>Kouassi Kevin Kouadio</span>
         </h1>
         <p>Full Stack Web Developer based in East Orange, New Jersey. I am currently looking for new opportunities.</p>
-          <a className="btn btn-primary" href="https://kevkouadio.github.io/kk-portofolio/Kouassi-Kevin-Kouadio.pdf" target="blank">View my Resume</a>
+          <a className="btn btn-primary" href={myResume} target="blank">View my Resume</a>
         </div>
       </div>
     </div>

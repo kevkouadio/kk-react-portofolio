@@ -1,6 +1,21 @@
 [
     {
         "id": 1,
+        "name": "BMS Logistic Website",
+        "description": "The real website of a trucking company base in Atlanta,GA.",
+        "picture": "https://i.postimg.cc/SKZ9Y8rJ/BMS-Capture.png",
+        "link": "https://bms-logistic.com/"
+    },
+    {
+        "id": 2,
+        "name": "Kno-Pressure App",
+        "description": "A simple MERN app to track blood pressure.",
+        "picture": "https://i.postimg.cc/3rGyYzPy/Kno-Capture.png",
+        "link": "https://knopressure.herokuapp.com/",
+        "repo": "https://github.com/kevkouadio/KnoPressure-App"
+    },
+    {
+        "id": 3,
         "name": "CMS of a restaurant website",
         "description": "A Content Management Systems app for a Restaurant where owner can post new dishes.",
         "picture": "https://github.com/kevkouadio/Project2/raw/master/public/images/screenshots/menu.png",
@@ -8,7 +23,7 @@
         "repo": "https://github.com/kevkouadio/Project2"
     },
     {
-        "id": 2,
+        "id": 4,
         "name": "Employee Directory",
         "description": "It is an employee directory application developed with React using the ramdomuser API.",
         "picture": "https://github.com/kevkouadio/employee-directory/raw/main/public/Screenshot1.png",
@@ -16,7 +31,7 @@
         "repo": "https://github.com/kevkouadio/employee-directory"
     },
     {
-        "id": 3,
+        "id": 5,
         "name": "Workout Tracker",
         "description": "Workout app that allows the user to track the name, type, weight, sets, reps, and duration of exercise.",
         "picture": "https://github.com/kevkouadio/kk-workout-tracker/raw/main/public/Screenshots/Screenshot2.png",
@@ -24,7 +39,7 @@
         "repo": "https://github.com/kevkouadio/kk-workout-tracker"
     },
     {
-        "id": 4,
+        "id": 6,
         "name": "Password Generator",
         "description": "It is an application that generates a random password based on user-selected criteria.",
         "picture": "https://github.com/kevkouadio/hw3-password-generator/raw/master/Screeshots/Screenshot2.png",
@@ -32,7 +47,7 @@
         "repo": "https://github.com/kevkouadio/hw3-password-generator"
     },
     {
-        "id": 5,
+        "id": 7,
         "name": "Weather Dashboard",
         "description": "It is a simple weather dashboard app that runs in the browser and feature dynamically updated HTML and CSS.",
         "picture": "https://github.com/kevkouadio/KK-Weather-Dashboard/raw/master/Assets/Screenshot.png",
@@ -40,7 +55,7 @@
         "repo": "https://github.com/kevkouadio/KK-Weather-Dashboard"
     },
     {
-        "id": 6,
+        "id": 8,
         "name": "Note Taker",
         "description": "Online application that can be used to write, save, and delete notes.",
         "picture": "https://github.com/kevkouadio/Note-Taker/blob/master/public/Note-Taker-App.gif?raw=true",
@@ -48,7 +63,7 @@
         "repo": "https://github.com/kevkouadio/Note-Taker"
     },
     {
-        "id": 7,
+        "id": 9,
         "name": "Code Quiz",
         "description": "Javascript fundamental code quiz with multiple-choice questions.",
         "picture": "https://github.com/kevkouadio/KK-Code-Quiz/raw/master/Assets/Screen-Shot1.png",
@@ -56,7 +71,7 @@
         "repo": "https://github.com/kevkouadio/KK-Code-Quiz"
     },
     {
-        "id": 8,
+        "id": 10,
         "name": "Work Day Planner",
         "description": "Simple calendar application that allows the user to save events for each hour of a working day.",
         "picture": "https://github.com/kevkouadio/KK-Day-Planner/raw/master/Assets/05-third-party-apis-homework-demo.gif",
@@ -64,7 +79,7 @@
         "repo": "https://github.com/kevkouadio/KK-Day-Planner"
     },
     {
-        "id": 9,
+        "id": 11,
         "name": "Online-Offline budget tracker",
         "description": "Progressive Web Application to track Budget. It can work without internet connection.",
         "picture": "https://github.com/kevkouadio/kk-online-offline-budget-trackers/raw/main/public/icons/Screenshot.png",

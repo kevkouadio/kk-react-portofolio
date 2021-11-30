@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import myResume from "../../components/Resume/Kouassi-Kevin-Kouadio.pdf";
 import "./style.css";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
@@ -35,7 +36,7 @@ function Navbar() {
         </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="https://kevkouadio.github.io/kk-portofolio/Kouassi-Kevin-Kouadio.pdf" target="blank">Resume</a>
+        <a className="nav-link" href={myResume} target="blank">Resume</a>
       </li>
     </ul>
     </div>
